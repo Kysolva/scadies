@@ -948,11 +948,6 @@
     "@typescript-eslint/types" "5.33.0"
     eslint-visitor-keys "^3.3.0"
 
-"@vercel/ncc@^0.34.0":
-  version "0.34.0"
-  resolved "https://registry.yarnpkg.com/@vercel/ncc/-/ncc-0.34.0.tgz#d0139528320e46670d949c82967044a8f66db054"
-  integrity sha512-G9h5ZLBJ/V57Ou9vz5hI8pda/YQX5HQszCs3AmIus3XzsmRn/0Ptic5otD3xVST8QLKk7AMk7AqpsyQGN7MZ9A==
-
 "@vitejs/plugin-react@2.0.0":
   version "2.0.0"
   resolved "https://registry.npmjs.org/@vitejs/plugin-react/-/plugin-react-2.0.0.tgz"
@@ -1811,10 +1806,10 @@ cp-file@^9.1.0:
     nested-error-stacks "^2.0.0"
     p-event "^4.1.0"
 
-cpy-cli@4.1.0:
-  version "4.1.0"
-  resolved "https://registry.npmjs.org/cpy-cli/-/cpy-cli-4.1.0.tgz"
-  integrity sha512-JA6bth6/mxPCa19SrWkIuPEBrea8vO9g1v0qhmCLnAKOfTcsNk5/X3W1o9aZuOHgugRcxdyR67rO4Gw/DA+4Qg==
+cpy-cli@4.2.0:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/cpy-cli/-/cpy-cli-4.2.0.tgz#d60bf9ac776486af20aac2fa4fb95f8f10b35ce8"
+  integrity sha512-b04b+cbdr29CdpREPKw/itrfjO43Ty0Aj7wRM6M6LoE4GJxZJCk9Xp+Eu1IqztkKh3LxIBt1tDplENsa6KYprg==
   dependencies:
     cpy "^9.0.0"
     meow "^10.1.2"
