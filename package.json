@@ -14,7 +14,7 @@
         "eslint-config-prettier": "8.5.0",
         "husky": "8.0.1",
         "prettier": "2.7.1",
-        "turbo": "1.4.2"
+        "turbo": "1.6.3"
     },
     "scripts": {
         "build:docs": "vitepress build ./packages/docs",
